@@ -20,6 +20,12 @@ Neyron.az, developed by Javidan Garagozov, revolutionizes AI interaction with pe
 - Added Azerbaijani language support.  
 - Expanded toolset with **52 new tools**.  
 
+### **June 18-19, 2025**  
+**Fixations**  
+- Hosting maintance
+- SSL setificate for neyron.az and ai.neyron.az
+- made favicon for the website
+
 ### **June 17, 2025**  
 **Initial Release**  
 - Built basic UI framework.  
